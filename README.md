@@ -65,7 +65,7 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [ ] 33. Search in Rotated Sorted Array (Medium)
   - [ ] 34. Find First and Last Position of Element in Sorted Array (Medium)
   - [ ] 189. Rotate Array (Easy)
-  - [ ] 118. Pascal's Triangle (Easy)
+  - [X] 118. Pascal's Triangle (Easy)
   - [ ] 54. Spiral Matrix (Medium)
   - [ ] 280. Wiggle Sort (Medium)
   - [ ] 36. Valid Sodoku (Medium)
